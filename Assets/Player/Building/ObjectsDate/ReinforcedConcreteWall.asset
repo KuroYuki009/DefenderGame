@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a554da5648c8abd4d8ef7845b3b52d04, type: 3}
+  m_Name: ReinforcedConcreteWall
+  m_EditorClassIdentifier: 
+  id: ReinforcedConcreteWall
+  objectName: "\u9244\u7B4B\u30B3\u30F3\u30AF\u30EA\u30FC\u30C8"
+  imageSprite: {fileID: 21300000, guid: e551896fae7d8ad4ca9f4f973f218d64, type: 3}
+  instObject: {fileID: 6922316717109560211, guid: 31708f1f47d90764a9be70df8dacd2b5,
+    type: 3}
+  previewObject: {fileID: 6260467482810123495, guid: 6f5e93635318586418c6d406f84c0c01,
+    type: 3}
+  explanationText: "\u9AD8\u3044\u8010\u4E45\u6027\u3092\u6301\u3061\u306A\u304C\u3089\u3001\u88DC\u4FEE\u304C\u7C21\u5358\u306B\u884C\u3048\u308B\u3053\u3068\u304B\u3089\u9AD8\u3044\u4FE1\u983C\u6027\u304C\u3042\u308B\u3002"
+  durabilityPoint: 0
+  explosiveResistRate: 0
+  attackPoint: 0
