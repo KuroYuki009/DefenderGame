@@ -34,6 +34,8 @@ public class pickWindow : MonoBehaviour
             objectNameDate = SODate.objectName;//オブジェクトの名前を取得し、格納する。
         imageSpriteDate = SODate.imageSprite;//オブジェクトの画像データを取得し、格納する。
 
+        windowImage.sprite = SODate.imageSprite;//イメージ画像を格納する。
+
     }
 
     public void CursorEnter()//マウスカーソルが重なった際の処理。
